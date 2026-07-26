@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "AI-Voice-Notes",
+    "name": "AI Voice Notes",
     "slug": "zynasty",
     "scheme": "aivoicenotes",
     "version": "1.0.0",
@@ -78,7 +78,8 @@
           "resizeMode": "contain",
           "backgroundColor": "#0B0B14"
         }
-      ]
+      ],
+      "expo-asset"
     ],
     "experiments": {
       "typedRoutes": true
@@ -87,7 +88,6 @@
       "router": {
         "origin": false
       },
-
       "eas": {
         "projectId": "d853d6b9-628f-447b-8a61-c308791ad027"
       }
@@ -95,4 +95,3 @@
     "owner": "zynastydesigns-team"
   }
 }
-
