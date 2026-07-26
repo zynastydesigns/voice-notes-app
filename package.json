@@ -12,6 +12,11 @@
     "typecheck": "tsc --noEmit",
     "test": "jest"
   },
+   "overrides": {
+  "nativewind": {
+    "react-native-css-interop": "0.1.22"
+  }
+},
   "dependencies": {
     "@expo-google-fonts/inter": "^0.2.3",
     "@expo/vector-icons": "^14.0.4",
