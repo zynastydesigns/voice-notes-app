@@ -4,6 +4,9 @@
     "slug": "zynasty",
     "scheme": "aivoicenotes",
     "version": "1.0.0",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
     "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
